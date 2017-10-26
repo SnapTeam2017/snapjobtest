@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "182117282578",
+    "firebase_url": "https://snapjobtest.firebaseio.com",
+    "project_id": "snapjobtest",
+    "storage_bucket": "snapjobtest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182117282578:android:5e7434c0f40955af",
+        "android_client_info": {
+          "package_name": "com.SnapJobTest.snapjobtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182117282578-g0fbo0b1ava1po93iom4dpc3ud7ak9mc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.SnapJobTest.snapjobtest",
+            "certificate_hash": "7c2daba05e18490f6744c4f9c197108c4863f6cd"
+          }
+        },
+        {
+          "client_id": "182117282578-qkfvp1e8lrob873pberob3h0h2hg6nkm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ1pG0Lcz5lEAzvQInTNMOWoBOTVkkJDU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182117282578-qkfvp1e8lrob873pberob3h0h2hg6nkm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
